@@ -1,0 +1,7 @@
+C:\Users\ravish.kumar\source\repos\helloApp\helloApp\bin\Debug\helloApp.exe.config
+C:\Users\ravish.kumar\source\repos\helloApp\helloApp\bin\Debug\helloApp.exe
+C:\Users\ravish.kumar\source\repos\helloApp\helloApp\bin\Debug\helloApp.pdb
+C:\Users\ravish.kumar\source\repos\helloApp\helloApp\obj\Debug\helloApp.csprojResolveAssemblyReference.cache
+C:\Users\ravish.kumar\source\repos\helloApp\helloApp\obj\Debug\helloApp.csproj.CoreCompileInputs.cache
+C:\Users\ravish.kumar\source\repos\helloApp\helloApp\obj\Debug\helloApp.exe
+C:\Users\ravish.kumar\source\repos\helloApp\helloApp\obj\Debug\helloApp.pdb
